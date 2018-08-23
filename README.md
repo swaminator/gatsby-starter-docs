@@ -2,7 +2,7 @@
     <img src="static/logos/logo-1024.png" alt="Logo" width='100px' height='100px'/>
 </div>
 
-# Gatsby Docs Starter 1.0
+# Gatsby Docs Starter 1.0 Test
 
 #### This Project was forked from [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)
 
